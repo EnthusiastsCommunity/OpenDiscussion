@@ -19,3 +19,4 @@
 | [DOU](https://dou.ua) | SE | [GW](https://dou.ua/forums/topic/18795/)
 | [VK](https://vk.com) | SE | [GW](https://vk.com/club130365403)
 | [Progaem](http://progaem.forum2x2.ru/) | SE | [GW](http://progaem.forum2x2.ru/t197-topic)
+| [GeekBrains](https://geekbrains.ru/) | SE | [GW](https://geekbrains.ru/topics/2291)
