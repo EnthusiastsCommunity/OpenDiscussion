@@ -16,3 +16,4 @@
 | [Vingrad](http://forum.vingrad.ru/forum/act-idx.html) | [SE](http://forum.vingrad.ru/forum/topic-390373/kw-programmers-skills-search.html) [SE](http://forum.vingrad.ru/forum/topic-389811.html) | [GW](http://forum.vingrad.ru/forum/topic-389328/kw-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.html)
 | [CODE FORUM](http://code-forum.net/) | SE | [GW](http://code-forum.net/showthread.php?t=1512)
 | [CyberForum](http://www.cyberforum.ru/) | [SE](http://www.cyberforum.ru/post9962217.html) | [GW](http://www.cyberforum.ru/evaluate-site/thread1823145.html)
+| [DOU](https://dou.ua) | SE | [GW](https://dou.ua/forums/topic/18795/)
