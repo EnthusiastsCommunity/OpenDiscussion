@@ -20,3 +20,4 @@
 | [VK](https://vk.com) | SE | [GW](https://vk.com/club130365403)
 | [Progaem](http://progaem.forum2x2.ru/) | SE | [GW](http://progaem.forum2x2.ru/t197-topic)
 | [GeekBrains](https://geekbrains.ru/) | SE | [GW](https://geekbrains.ru/topics/2291)
+| [HardForum](http://www.hardforum.ru/) | SE | [GW](http://www.hardforum.ru/t125605/)
