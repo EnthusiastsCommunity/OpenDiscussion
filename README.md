@@ -21,3 +21,4 @@
 | [Progaem](http://progaem.forum2x2.ru/) | SE | [GW](http://progaem.forum2x2.ru/t197-topic)
 | [GeekBrains](https://geekbrains.ru/) | SE | [GW](https://geekbrains.ru/topics/2291)
 | [HardForum](http://www.hardforum.ru/) | SE | [GW](http://www.hardforum.ru/t125605/)
+| [Codeby](https://codeby.net) | SE | [GW](https://codeby.net/forum/threads/arena-iskusstvennyx-intellektov-gridwars.58092/)
