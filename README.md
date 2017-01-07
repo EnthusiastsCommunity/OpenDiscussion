@@ -22,3 +22,4 @@
 | [GeekBrains](https://geekbrains.ru/) | SE | [GW](https://geekbrains.ru/topics/2291)
 | [HardForum](http://www.hardforum.ru/) | SE | [GW](http://www.hardforum.ru/t125605/)
 | [Codeby](https://codeby.net) | SE | [GW](https://codeby.net/forum/threads/arena-iskusstvennyx-intellektov-gridwars.58092/)
+| [Programmers forum](http://www.programmersforum.ru) | SE | [GW](http://www.programmersforum.ru/showthread.php?t=298172)
