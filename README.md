@@ -29,3 +29,4 @@
 | [Linux](https://www.linux.org.ru) | SE | [GW](https://www.linux.org.ru/forum/development/13130208)
 | [JS course](https://forum.jscourse.com) | SE | [GW](https://forum.jscourse.com/t/igra-dlya-programmistov-na-javascript-gridwars/1615)
 | [PHP](https://php.ru) | SE | [GW](https://php.ru/forum/threads/igra-dlja-programmistov-na-javascript.61532/)
+| [SysAdmins](http://sysadmins.ru/) | SE | [GW](http://sysadmins.ru/topic475248.html)
