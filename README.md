@@ -28,3 +28,4 @@
 | [HTML book forum](https://htmlforum.io) | SE | [GW](https://htmlforum.io/topic/57256-igra-dlya-programmistov-na-javascript/)
 | [Linux](https://www.linux.org.ru) | SE | [GW](https://www.linux.org.ru/forum/development/13130208)
 | [JS course](https://forum.jscourse.com) | SE | [GW](https://forum.jscourse.com/t/igra-dlya-programmistov-na-javascript-gridwars/1615)
+| [PHP](https://php.ru) | SE | [GW](https://php.ru/forum/threads/igra-dlja-programmistov-na-javascript.61532/)
