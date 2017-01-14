@@ -25,7 +25,7 @@
 | [Codeby](https://codeby.net) | SE | [GW](https://codeby.net/forum/threads/arena-iskusstvennyx-intellektov-gridwars.58092/)
 | [Programmers forum](http://www.programmersforum.ru) | SE | [GW](http://www.programmersforum.ru/showthread.php?t=298172)
 | [Forum DoCode](http://forum.docode.ru/) | SE | [GW](http://forum.docode.ru/topic/80/%D0%B0%D1%80%D0%B5%D0%BD%D0%B0-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D0%B2)
-| [HTML forum](http://www.html.by) | SE | [GW](http://www.html.by/threads/38399-Igra-dlja-programmistov-na-JavaScript)
+| [HTML forum](http://www.html.by) | [SE](http://www.html.by/threads/38412-Poisk-PHP-razrabotchikov-v-Kieve) | [GW](http://www.html.by/threads/38399-Igra-dlja-programmistov-na-JavaScript)
 | [HTML book forum](https://htmlforum.io) | SE | [GW](https://htmlforum.io/topic/57256-igra-dlya-programmistov-na-javascript/)
 | [Linux](https://www.linux.org.ru) | SE | [GW](https://www.linux.org.ru/forum/development/13130208)
 | [JS course](https://forum.jscourse.com) | SE | [GW](https://forum.jscourse.com/t/igra-dlya-programmistov-na-javascript-gridwars/1615)
