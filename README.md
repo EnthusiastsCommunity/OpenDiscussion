@@ -33,3 +33,4 @@
 | [SysAdmins](http://sysadmins.ru/) | SE | [GW](http://sysadmins.ru/topic475248.html)
 | [Киев Форум](http://kievforum.org/) | SE | GW | [HT](http://kievforum.org/showthread.php?p=1762178)
 | [Киевский Форум](http://kiev.com.ua/forum/) | SE | GW | [HT](http://kiev.com.ua/forum/showthread.php?p=1589353)
+| [OpenNet](https://www.opennet.ru/) | [SE](https://www.opennet.ru/openforum/vsluhforumID2/9536.html) | GW | HT |
