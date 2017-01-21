@@ -36,3 +36,4 @@
 | [OpenNet](https://www.opennet.ru/) | [SE](https://www.opennet.ru/openforum/vsluhforumID2/9536.html) | GW | HT
 | [Одесский форум Connect](http://connect.od.ua/) | [SE](http://connect.od.ua/index.php?topic=6184) | GW | HT
 | [Advertising Forumbook](http://advertising.forumbook.ru/) | [SE](http://advertising.forumbook.ru/t4354-topic) | GW | HT
+| [CodeNet](http://forum.codenet.ru/) | SE | GW | HT
