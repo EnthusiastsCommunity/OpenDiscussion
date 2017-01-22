@@ -39,3 +39,4 @@
 | [CodeNet](http://forum.codenet.ru/) | SE | GW | HT
 | [LiveJournal](http://www.livejournal.com/) | [SE](http://senseyecomua.livejournal.com/690.html) | GW | HT
 | [Symfony](https://symfony.com/) | SE | GW | HT
+| [Черкасский форум](http://forumua.org/) | SE | GW | HT
