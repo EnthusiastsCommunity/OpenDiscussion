@@ -40,3 +40,5 @@
 | [LiveJournal](http://www.livejournal.com/) | [SE](http://senseyecomua.livejournal.com/690.html) | GW | HT
 | [Symfony](https://symfony.com/) | SE | GW | HT
 | [Черкасский форум](http://forumua.org/) | SE | GW | HT
+| [Форум Чернигова](http://chernigov.info) | [SE](http://chernigov.info/showthread.php?p=11357) | GW | HT
+
