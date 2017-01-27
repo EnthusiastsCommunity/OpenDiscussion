@@ -31,7 +31,7 @@
 | [JS course](https://forum.jscourse.com) | SE | [GW](https://forum.jscourse.com/t/igra-dlya-programmistov-na-javascript-gridwars/1615)
 | [PHP](https://php.ru) | SE | [GW](https://php.ru/forum/threads/igra-dlja-programmistov-na-javascript.61532/) | [HT](https://php.ru/forum/threads/rukovodstvo-kak-stat-php-razrabotchikom.61578/)
 | [SysAdmins](http://sysadmins.ru/) | SE | [GW](http://sysadmins.ru/topic475248.html)
-| [Киев Форум](http://kievforum.org/) | SE | GW | [HT](http://kievforum.org/showthread.php?p=1762178)
+| [Киев Форум](http://kievforum.org/) | [SE](http://kievforum.org/showthread.php?p=1771558) | GW | [HT](http://kievforum.org/showthread.php?p=1762178)
 | [Киевский Форум](http://kiev.com.ua/forum/) | SE | GW | [HT](http://kiev.com.ua/forum/showthread.php?p=1589353)
 | [OpenNet](https://www.opennet.ru/) | [SE](https://www.opennet.ru/openforum/vsluhforumID2/9536.html) | GW | HT
 | [Одесский форум Connect](http://connect.od.ua/) | [SE](http://connect.od.ua/index.php?topic=6184) | GW | HT
