@@ -42,4 +42,5 @@
 | [Черкасский форум](http://forumua.org/) | SE | GW | HT
 | [Форум Чернигова](http://chernigov.info) | [SE](http://chernigov.info/showthread.php?p=11357) | GW | HT
 | [PHP forum](http://phpforum.su/) | SE | GW | HT
+| [Blogger](https://senseye-programmers-search.blogspot.com/) | SE | GW | HT
 
