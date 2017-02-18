@@ -44,4 +44,4 @@
 | [PHP forum](http://phpforum.su/) | SE | GW | HT
 | [Blogger](https://senseye-programmers-search.blogspot.com/) | SE | GW | HT
 | [Курсы программирования](https://prog.kiev.ua/forum/index.php) | SE | GW | HT
-
+| [Форум нижегородских программистов](http://www.nn.ru/community/biz/software/) | SE | GW | HT
