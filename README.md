@@ -18,7 +18,7 @@
 | [CODE FORUM](http://code-forum.net/) | [SE](http://code-forum.net/showthread.php?t=1681) | [GW](http://code-forum.net/showthread.php?t=1512)
 | [CyberForum](http://www.cyberforum.ru/) | [SE](http://www.cyberforum.ru/post9962217.html) | [GW](http://www.cyberforum.ru/evaluate-site/thread1823145.html)
 | [DOU](https://dou.ua) | SE | [GW](https://dou.ua/forums/topic/18795/)
-| [VK](https://vk.com) | SE | [GW](https://vk.com/club130365403)
+| [VK](https://vk.com) | [SE](https://vk.com/senseyeprogrammers) | [GW](https://vk.com/club130365403)
 | [Progaem](http://progaem.forum2x2.ru/) | SE | [GW](http://progaem.forum2x2.ru/t197-topic)
 | [GeekBrains](https://geekbrains.ru/) | SE | [GW](https://geekbrains.ru/topics/2291)
 | [HardForum](http://www.hardforum.ru/) | SE | [GW](http://www.hardforum.ru/t125605/)
