@@ -46,3 +46,4 @@
 | [Курсы программирования](https://prog.kiev.ua/forum/index.php) | SE | GW | HT
 | [Форум нижегородских программистов](http://www.nn.ru/community/biz/software/) | SE | GW | HT
 | [Полтава форум](http://www.poltavaforum.com/programmirovanie-322/) | SE | GW | HT
+| [SPARK](https://spark.ru/) | [SE](https://spark.ru/startup/senseye/wall) | GW | HT
