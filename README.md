@@ -47,3 +47,4 @@
 | [Форум нижегородских программистов](http://www.nn.ru/community/biz/software/) | SE | GW | HT
 | [Полтава форум](http://www.poltavaforum.com/programmirovanie-322/) | SE | GW | HT
 | [SPARK](https://spark.ru/) | [SE](https://spark.ru/startup/senseye/wall) | GW | HT
+| [Facebook](https://www.facebook.com/) | [SE](https://www.facebook.com/senseyeprogrammers) | [GW](https://www.facebook.com/groups/175667512879230/) | HT
